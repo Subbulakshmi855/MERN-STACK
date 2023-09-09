@@ -69,7 +69,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Movie Search</h1>
+      <h1>MOVIES SEARCHING PLATFORM</h1>
       <SearchBar onSearch={handleSearch} />
       <div className="movie-app-container">
         <MovieList
